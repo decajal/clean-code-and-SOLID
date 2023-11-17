@@ -1,2 +1,21 @@
 # Principios SOLID y Clean Code
-El código de este repositorio se escribió siguiendo el curso _Principios SOLID y Clean Code_ de Fernando Herrera, todo el contenido tiene fines educativos.
+
+## Proyecto para practicar
+
+Este es un proyecto de Vanilla TypeScript en Vite, para trabajar los ejercicios del curso sobre _Principios SOLID y CleanCode_.
+
+Clonar o descargar el proyecto y luego:
+
+```
+yarn install
+ó
+npm install
+```
+
+Para ejecutar el proyecto, simplemente ejecuten
+
+```
+yarn dev
+ó
+npm run dev
+```
