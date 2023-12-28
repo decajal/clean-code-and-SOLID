@@ -1,5 +1,6 @@
 import './style.css';
-import './clean-code/07-tarea';
+// import './clean-code/07-tarea';
+import './code-smells/02-low-coupling-exercise';
 
 const app = document.querySelector<HTMLDivElement>('#app')!;
 
